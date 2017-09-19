@@ -19,5 +19,5 @@ Create a site where a collective story/universe can be supported and expanded by
 
 
 Technology:
-Ruby on Rails, Postgresql, Devise,
+Ruby on Rails, Postgresql, Devise
 
